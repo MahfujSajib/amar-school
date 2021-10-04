@@ -5,7 +5,7 @@ import Footer from './components/Footer/Footer';
 import Home from './components/Home/Home';
 import About from './components/About/About';
 import Services from './components/Services/Services';
-import ContactUs from './components/Services/Services';
+import ContactUs from './components/ContactUs/ContactUs';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import NotFound from './NotFound/NotFound';
 
@@ -29,6 +29,9 @@ function App() {
           </Route>
           <Route path='/contact'>
             <ContactUs></ContactUs>
+          </Route>
+          <Route path='*'>
+            <NotFound></NotFound>
           </Route>
         </Switch>
         <Footer></Footer>

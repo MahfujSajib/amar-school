@@ -1,10 +1,7 @@
-import Button from '@restart/ui/esm/Button';
 import React from 'react';
-import { Card } from 'react-bootstrap';
-import './Course.css'
 
-const Course = (props) => {
-    const { name, img, price, lecture } = props.course
+const MoreService = (props) => {
+    const { name, price, lecture, img } = props.service
     return (
         <div class="container">
             <div class="row m-4">
@@ -16,7 +13,7 @@ const Course = (props) => {
                         <h1>Name: {name}</h1>
                         <h4>Price :{price}</h4>
                         <h4>Total Lecture: {lecture}</h4>
-                        <button className='btn btn-primary m-4 buy-now'> <a href="http://localhost:3000/services">Buy Now</a> </button>
+                        <button className='btn btn-primary m-4'>Purchase</button>
                     </div>
 
                 </div>
@@ -25,6 +22,4 @@ const Course = (props) => {
     );
 };
 
-export default Course;
-
-
+export default MoreService;

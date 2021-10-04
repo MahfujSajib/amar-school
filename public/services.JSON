@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Physics for All",
+        "price": 200,
+        "lecture": 30,
+        "img": "https://assets.ltkcontent.com/images/26593/physics_0066f46bde.jpg"
+    },
+    {
+        "name": "Chemistry for All",
+        "price": 180,
+        "lecture": 25,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQVodlFH8YNu9z-MQzMHPzrlZAsys2ZXJRYA&usqp=jpg"
+    },
+    {
+        "name": "Math for All",
+        "price": 300,
+        "lecture": 40,
+        "img": "https://img.freepik.com/free-vector/chalkboard-with-math-elements_1411-88.jpg?size=626&ext=jpg"
+    },
+    {
+        "name": "Biology for All",
+        "price": 150,
+        "lecture": 22,
+        "img": "https://image.shutterstock.com/image-vector/biology-open-book-doodles-lettering-260nw-1263333862.jpg"
+    },
+    {
+        "name": "Social Science for All",
+        "price": 120,
+        "lecture": 15,
+        "img": "https://www.socialsciencespace.com/wp-content/uploads/SocialScience-word-cloud_opt.jpg"
+    },
+    {
+        "name": "Biology for All",
+        "price": 150,
+        "lecture": 22,
+        "img": "https://image.shutterstock.com/image-vector/biology-open-book-doodles-lettering-260nw-1263333862.jpg"
+    },
+    {
+        "name": "English for All",
+        "price": 250,
+        "lecture": 38,
+        "img": "https://image.shutterstock.com/image-vector/design-concept-word-english-website-260nw-1043962963.jpg"
+    },
+    {
+        "name": "ICT for All",
+        "price": 140,
+        "lecture": 12,
+        "img": "https://image.shutterstock.com/image-vector/ict-information-communication-technology-concept-260nw-1471785641.jpg"
+    },
+    {
+        "name": "Economics for All",
+        "price": 280,
+        "lecture": 35,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/20/Economics.jpg"
+    }
+]
