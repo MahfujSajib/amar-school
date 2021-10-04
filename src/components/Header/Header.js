@@ -13,8 +13,9 @@ const Header = () => {
                 <Link className='link' to="/services">Services</Link>
                 <Link className='link' to="/contact">Contact</Link>
             </Nav>
-
+            <h1 className="name">AMAR SCHOOL</h1>
         </Navbar >
+
     );
 };
 
