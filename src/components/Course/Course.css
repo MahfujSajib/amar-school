@@ -1,0 +1,11 @@
+.images{
+    width: 200px;
+    margin-top: 10px;
+}
+.courses{
+    border: 2px solid rgb(19, 214, 221);
+    background-color: rgb(24, 188, 238);
+    color: rgb(0, 0, 0);
+    width: 50%;
+    
+}
