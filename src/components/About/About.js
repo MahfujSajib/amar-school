@@ -11,6 +11,7 @@ const About = () => {
                 <h3>What We are</h3>
                 <hr />
                 <p>We take pride in nurturing students’ academic abilities. Our admissions process ensures the establishment of an outstanding student body.</p>
+                <h1>hello</h1>
             </div>
         </div>
     );
