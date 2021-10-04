@@ -3,3 +3,11 @@
     background-color: black;
     color: rgb(1, 224, 231);
 }
+.para{
+    margin: 20px;
+    margin-bottom: 40px;
+}
+.quotation{
+    color: tomato;
+    font-size: 20px;
+}

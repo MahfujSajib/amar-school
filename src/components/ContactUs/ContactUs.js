@@ -5,8 +5,8 @@ import './contactUs.css'
 
 const ContactUs = () => {
     return (
-
         <Form className='mt-5'>
+            <h2 className='contact-us'>Contact Us</h2>
             <Form.Group className="mb-3 w-50 m-auto" controlId="formBasicEmail">
                 <Form.Label className='contact'>Email address</Form.Label>
                 <Form.Control type="email" placeholder="Enter email" />
@@ -19,7 +19,7 @@ const ContactUs = () => {
                 <Form.Label className='contact'>Your Comment</Form.Label>
                 <Form.Control type="text" placeholder="Write your comment" />
             </Form.Group>
-            <Button className='btn btn-primary' variant="primary" type="submit">
+            <Button className='btn btn-primary mb-5' variant="primary" type="submit">
                 Submit
             </Button>
         </Form>
